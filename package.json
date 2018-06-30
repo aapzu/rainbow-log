@@ -1,0 +1,13 @@
+{
+  "name": "rainbow-log",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "rainbow-log": "./cli.js"
+  },
+  "author": "aapzu",
+  "license": "MIT",
+  "dependencies": {
+    "cli-color": "^1.2.0"
+  }
+}
